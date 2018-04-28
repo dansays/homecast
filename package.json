@@ -1,0 +1,17 @@
+{
+  "name": "homecast",
+  "version": "1.0.0",
+  "description": "A personal podcast feed for your home network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel G. Budiac",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "ip": "^1.1.5",
+    "mime-types": "^2.1.18",
+    "rss": "^1.2.2"
+  }
+}
